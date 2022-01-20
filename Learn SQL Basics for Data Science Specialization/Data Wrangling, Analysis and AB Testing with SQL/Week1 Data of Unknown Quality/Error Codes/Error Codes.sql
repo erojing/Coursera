@@ -1,4 +1,4 @@
-https://app.mode.com/erojing/reports/332829e40e2f
+--Report on Mode: https://app.mode.com/erojing/reports/332829e40e2f
 
 --Exercise 1:
 --Goal: Here we use users table to pull a list of user email addresses. Edit the query to pull email

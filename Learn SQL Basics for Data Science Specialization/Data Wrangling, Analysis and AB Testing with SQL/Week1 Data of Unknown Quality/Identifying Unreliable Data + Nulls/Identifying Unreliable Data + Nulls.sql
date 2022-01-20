@@ -1,4 +1,4 @@
-https://app.mode.com/erojing/reports/ab199430b39d
+--Report on Mode: https://app.mode.com/erojing/reports/ab199430b39d
 
 -- Exercise 1: Using any methods you like determine if you can you trust this events table.
 

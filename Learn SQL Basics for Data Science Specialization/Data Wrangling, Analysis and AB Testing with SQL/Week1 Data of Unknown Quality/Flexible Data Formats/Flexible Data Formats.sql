@@ -1,4 +1,4 @@
-https://app.mode.com/erojing/reports/31a6722f9268
+--Report on Mode: https://app.mode.com/erojing/reports/31a6722f9268
 
 --Exercise 1:
 --Goal: Write a query to format the view_item event into a table with the appropriate columns
