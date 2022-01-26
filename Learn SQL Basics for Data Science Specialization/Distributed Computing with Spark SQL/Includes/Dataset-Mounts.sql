@@ -36,7 +36,7 @@
 -- MAGIC if (!dbutils.fs.mounts().map(_.mountPoint).contains(mountDir)) {
 -- MAGIC   println(s"Mounting $source\n to $mountDir")
 -- MAGIC   val accessKey = "AKIAJDDJNXBZ3FJHWLDQ"
--- MAGIC   val secretKey = "wD26wPuGshDAIObuOFKPBsQ8n5LPd0aJYWyS2H+%2F"
+-- MAGIC   val secretKey = 
 -- MAGIC   val sourceStr = s"s3a://$accessKey:$secretKey@$source"
 -- MAGIC   
 -- MAGIC   dbutils.fs.mount(sourceStr, mountDir)
