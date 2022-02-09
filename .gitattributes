@@ -2,3 +2,7 @@ resnet50.h5 filter=lfs diff=lfs merge=lfs -text
 variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 imagenet-vgg-verydeep-19.mat filter=lfs diff=lfs merge=lfs -text
 fa107dc22c014df078a1b75235144a927f7e9764916222711f239b7ee6092ec9.bc4b731be56d8422e12b1d5bfa86fbd81d18d2770da1f5ac4f33640a17b7dde9.h5 filter=lfs diff=lfs merge=lfs -text
+Deep[[:space:]]Learning[[:space:]]Specialization/Sequence[[:space:]]Models/Course5-Week4/Transformer[[:space:]]Application/Transformer[[:space:]]Pre-processing/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+Deep[[:space:]]Learning[[:space:]]Specialization/Sequence[[:space:]]Models/Course5-Week4/Transformer[[:space:]]Application/Named-Entity[[:space:]]Recognition/model/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
+Deep[[:space:]]Learning[[:space:]]Specialization/Sequence[[:space:]]Models/Course5-Week4/Transformer[[:space:]]Application/Question[[:space:]]Answering/model/pytorch/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+Deep[[:space:]]Learning[[:space:]]Specialization/Sequence[[:space:]]Models/Course5-Week4/Transformer[[:space:]]Application/Question[[:space:]]Answering/model/tensorflow/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
